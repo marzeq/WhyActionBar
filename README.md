@@ -1,4 +1,4 @@
-for a guild smp, nothing special.
+for a guild smp, nothing special.<br>
 made in an evening, dont judge my code
 
 deps:
